@@ -31,6 +31,65 @@
 203.66.32.201  app.cwb.gov.tw
 # CWB End
 
+# TW MOFA Start
+203.66.32.5    en.mofa.gov.tw
+203.66.35.5    en.mofa.gov.tw
+203.66.32.10   en.mofa.gov.tw
+203.66.32.195  en.mofa.gov.tw
+203.66.35.70   ws.mofa.gov.tw
+203.66.32.97   ws.mofa.gov.tw
+203.66.32.67   ws.mofa.gov.tw
+203.66.32.195  ws.mofa.gov.tw
+210.69.210.134 law.mofa.gov.tw
+203.66.32.14   www.mofa.gov.tw
+203.66.35.14   www.mofa.gov.tw
+203.66.32.141  www.mofa.gov.tw
+203.66.32.131  www.mofa.gov.tw
+203.66.35.7    tafs.mofa.gov.tw
+203.66.32.9    tafs.mofa.gov.tw
+203.66.32.14   tafs.mofa.gov.tw
+210.69.210.7   eyes.mofa.gov.tw
+210.69.210.140 edoc.mofa.gov.tw
+210.69.210.25  edoc2.mofa.gov.tw
+203.66.35.2    subsite.mofa.gov.tw
+203.66.35.6    subsite.mofa.gov.tw
+203.66.32.4    subsite.mofa.gov.tw
+203.66.32.97   subsite.mofa.gov.tw
+210.69.210.8   multilingual.mofa.gov.tw
+# TW MOFA End
+
+# TW NCC Start
+203.66.32.2   www.ncc.gov.tw
+203.66.32.6   www.ncc.gov.tw
+203.66.34.10  www.ncc.gov.tw
+203.66.32.100 www.ncc.gov.tw
+203.66.32.194 www.ncc.gov.tw
+203.66.204.66 tsba.ncc.gov.tw
+203.66.204.66 memf.ncc.gov.tw
+203.66.204.66 opweb.ncc.gov.tw
+203.66.204.66 btevp.ncc.gov.tw
+203.66.204.66 ncclaw.ncc.gov.tw
+203.66.204.66 nccmla.ncc.gov.tw
+203.66.204.66 nccstat.ncc.gov.tw
+203.66.204.66 freqdbo.ncc.gov.tw
+203.66.204.66 intlfocus.ncc.gov.tw
+203.66.204.66 graphwebn.ncc.gov.tw
+203.66.204.66 nccmember.ncc.gov.tw
+203.66.204.66 commsurvey.ncc.gov.tw
+203.66.204.66 cabletvweb.ncc.gov.tw
+# TW NCC End
+
+# TW CDC Start
+203.66.32.45  www.cdc.gov.tw
+203.66.32.141 www.cdc.gov.tw
+203.66.32.105 www.cdc.gov.tw
+203.66.32.106 www.cdc.gov.tw
+203.66.32.4   nidss.cdc.gov.tw
+203.66.32.204 nidss.cdc.gov.tw
+203.66.32.78  nidss.cdc.gov.tw
+203.66.32.107 nidss.cdc.gov.tw
+# TW CDC End
+
 # HiNet Start
 203.75.214.159 hinet.net
 210.71.187.209 fms.hinet.net
