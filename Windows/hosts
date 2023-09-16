@@ -1657,12 +1657,12 @@
 # RTHK End
 
 # PCloud Start
-45.133.244.7    my.pcloud.com
-45.133.244.8    my.pcloud.com
-45.133.244.9    my.pcloud.com
-45.133.244.10   my.pcloud.com
-45.133.244.11   my.pcloud.com
-45.133.244.12   my.pcloud.com
+45.131.244.7    my.pcloud.com
+45.131.244.8    my.pcloud.com
+45.131.244.9    my.pcloud.com
+45.131.244.10   my.pcloud.com
+45.131.244.11   my.pcloud.com
+45.131.244.12   my.pcloud.com
 203.195.121.116 pcdn-e.pcloud.com
 203.195.121.116 pcdn-u.pcloud.com
 203.195.121.116 pcdn-my.pcloud.com
@@ -6600,6 +6600,7 @@
 107.173.167.140 inv.tux.pizza
 107.173.167.140 nitter.tux.pizza
 107.173.167.140 libreddit.tux.pizza
+158.101.122.233 invidious.asir.dev
 104.26.0.51     yt.whateveritworks.org
 104.26.1.51     yt.whateveritworks.org
 172.67.73.58    yt.whateveritworks.org
