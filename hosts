@@ -672,6 +672,7 @@
 113.5.183.193   img.wyzxwk.com
 42.100.40.177   img.wyzxwk.com
 111.13.181.106  img.wyzxwk.com
+119.188.172.172 img.wyzxwk.com
 119.188.172.198 img.wyzxwk.com
 139.209.32.12   video.jlsy.gov.cn
 58.215.158.5    ykugc.cp31.ott.cibntv.net
@@ -704,6 +705,13 @@
 180.97.251.63   vali-ugc.cp31.ott.cibntv.net
 180.97.251.64   vali-ugc.cp31.ott.cibntv.net
 180.97.251.65   vali-ugc.cp31.ott.cibntv.net
+42.59.21.47     upos-sz-mirror08c.bilivideo.com
+42.59.21.50     upos-sz-mirror08c.bilivideo.com
+42.59.16.171    upos-sz-mirror08c.bilivideo.com
+42.59.16.172    upos-sz-mirror08c.bilivideo.com
+119.188.49.77   upos-sz-mirror08c.bilivideo.com
+42.101.21.230   upos-sz-mirror08c.bilivideo.com
+42.101.21.239   upos-sz-mirror08c.bilivideo.com
 218.60.109.224  upos-sz-mirroralib.bilivideo.com
 218.60.109.226  upos-sz-mirroralib.bilivideo.com
 218.60.109.227  upos-sz-mirroralib.bilivideo.com
@@ -6490,10 +6498,15 @@
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
+61.29.242.83    www.gov.hk
+61.29.242.84    www.gov.hk
+61.29.242.85    www.gov.hk
 65.21.79.229    f-droid.org
 136.243.44.143  f-droid.org
 65.21.79.229    www.f-droid.org
 136.243.44.143  www.f-droid.org
+104.20.65.215   chinatimes.com
+104.20.66.215   chinatimes.com
 203.66.32.67    cdn1.ettoday.net
 203.66.34.44    cdn1.ettoday.net
 203.66.32.71    cdn1.ettoday.net
@@ -6532,12 +6545,12 @@
 13.35.7.4       news.tvbs.com.tw
 13.35.7.31      news.tvbs.com.tw
 13.35.7.123     news.tvbs.com.tw
+146.75.92.158   video.twimg.com
 146.75.112.158  video.twimg.com
 146.75.116.158  video.twimg.com
-151.101.76.158  video.twimg.com
+146.75.120.158  video.twimg.com
 151.101.108.158 video.twimg.com
-104.20.65.215   chinatimes.com
-104.20.66.215   chinatimes.com
+151.101.228.158 video.twimg.com
 151.139.128.12  sp.rmbl.ws
 151.139.128.12  www.rmbl.ws
 151.139.128.12  live-fd164e1.rmbl.ws
