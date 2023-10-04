@@ -796,6 +796,10 @@
 119.188.49.77   upos-sz-mirror08c.bilivideo.com
 42.101.21.230   upos-sz-mirror08c.bilivideo.com
 42.101.21.239   upos-sz-mirror08c.bilivideo.com
+111.26.56.93    upos-sz-mirror08h.bilivideo.com
+42.101.21.230   upos-sz-mirror08h.bilivideo.com
+42.248.133.78   upos-sz-mirror08h.bilivideo.com
+124.234.173.26  upos-sz-mirrorctos.bilivideo.com
 218.60.109.224  upos-sz-mirroralib.bilivideo.com
 218.60.109.226  upos-sz-mirroralib.bilivideo.com
 218.60.109.227  upos-sz-mirroralib.bilivideo.com
@@ -6774,6 +6778,8 @@
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
 127.0.0.1 geo2.adobe.com
+127.0.0.1 www.eassos.com.w.kunlunsl.com
+127.0.0.1 internal.eassos.com.w.kunlunsl.com
 # Flash End
 
 # Xunlei Start
