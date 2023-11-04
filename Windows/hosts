@@ -2214,21 +2214,33 @@
 192.169.122.231 upos-sz-mirroralibstar1.bilivideo.com
 # China End
 
+# bootstrapcdn Start
+216.24.57.1   bootstrapcdn.com
+216.24.57.3   www.bootstrapcdn.com
+216.24.57.253 www.bootstrapcdn.com
+104.18.10.207 maxcdn.bootstrapcdn.com
+104.18.11.207 maxcdn.bootstrapcdn.com
+104.18.10.207 netdna.bootstrapcdn.com
+104.18.11.207 netdna.bootstrapcdn.com
+104.18.10.207 stackpath.bootstrapcdn.com
+104.18.11.207 stackpath.bootstrapcdn.com
+# bootstrapcdn End
+
 # CDN Start
 121.254.136.17  a248.e.akamai.net
 210.71.227.58   vod-stream.nhk.jp
 210.71.227.59   vod-stream.nhk.jp
-72.21.81.200    cteecors.azureedge.net
-210.71.227.147  onesource.azureedge.net
-198.87.54.130   a1007.dspw43.akamai.net
-125.56.201.121  a1402.dspw40.akamai.net
-117.18.237.97   gxcuf89792.i.lithium.com
 210.71.227.49   nbclim-f.akamaihd.net
 210.71.227.59   nbclim-f.akamaihd.net
 210.71.227.122  ds-aksb-a.akamaihd.net
 210.71.227.114  ds-aksb-a.akamaihd.net
+72.21.81.200    cteecors.azureedge.net
 203.69.81.49    cnbcmbr-vh.akamaihd.net
 203.69.81.50    cnbcmbr-vh.akamaihd.net
+210.71.227.147  onesource.azureedge.net
+198.87.54.130   a1007.dspw43.akamai.net
+125.56.201.121  a1402.dspw40.akamai.net
+117.18.237.97   gxcuf89792.i.lithium.com
 210.71.227.168  foxnewsplayer-a.akamaihd.net
 210.71.227.171  foxnewsplayer-a.akamaihd.net
 13.33.189.135   d3c33hcgiwev3.cloudfront.net
@@ -8037,6 +8049,8 @@
 172.67.169.242  f6.apk4fun.com
 104.21.63.49    f7.apk4fun.com
 172.67.169.242  f7.apk4fun.com
+104.21.63.49    cdn.apk4fun.com
+172.67.169.242  cdn.apk4fun.com
 104.21.63.49    www.apk4fun.com
 172.67.169.242  www.apk4fun.com
 # apk4fun End
