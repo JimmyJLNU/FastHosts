@@ -3180,6 +3180,7 @@
 202.89.233.103 news.bing.com.cn
 202.89.233.104 news.bing.com.cn
 # Bing End
+
 # Wiki Start
 185.15.58.224 w.wiki
 185.15.58.224 mediawiki.org
@@ -8305,6 +8306,8 @@
 127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
 127.0.0.1 geo2.adobe.com
+127.0.0.1 www.eassos.com.w.kunlunsl.com
+127.0.0.1 internal.eassos.com.w.kunlunsl.com
 # Flash End
 
 # Xunlei Start
