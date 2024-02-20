@@ -66,6 +66,57 @@
 203.66.32.107 nidss.cdc.gov.tw
 # TW CDC End
 
+# TW CBC Start
+203.66.35.1    cpx.cbc.gov.tw
+203.66.35.2    cpx.cbc.gov.tw
+203.66.35.14   cpx.cbc.gov.tw
+203.66.32.161  cpx.cbc.gov.tw
+203.66.32.174  cpx.cbc.gov.tw
+203.66.32.203  cpx.cbc.gov.tw
+203.66.34.4    www.cbc.gov.tw
+203.66.32.11   www.cbc.gov.tw
+203.66.32.37   www.cbc.gov.tw
+203.66.35.108  www.cbc.gov.tw
+203.66.32.201  www.cbc.gov.tw
+203.66.35.3    museum.cbc.gov.tw
+203.66.32.39   museum.cbc.gov.tw
+203.66.35.73   museum.cbc.gov.tw
+203.66.35.99   museum.cbc.gov.tw
+203.66.32.106  museum.cbc.gov.tw
+203.66.32.197  museum.cbc.gov.tw
+203.66.35.8    www.law.cbc.gov.tw
+203.66.32.39   www.law.cbc.gov.tw
+203.66.34.10   www.law.cbc.gov.tw
+203.66.35.69   www.law.cbc.gov.tw
+203.66.32.101  www.law.cbc.gov.tw
+203.66.32.46   knowledge.cbc.gov.tw
+203.66.35.71   knowledge.cbc.gov.tw
+203.66.35.72   knowledge.cbc.gov.tw
+203.66.32.169  knowledge.cbc.gov.tw
+203.66.32.200  knowledge.cbc.gov.tw
+203.66.32.204  knowledge.cbc.gov.tw
+# TW CBC End
+
+# TW water Start
+203.66.35.8   www.water.gov.tw
+203.66.34.39  www.water.gov.tw
+203.66.34.44  www.water.gov.tw
+203.66.35.69  www.water.gov.tw
+203.66.32.132 www.water.gov.tw
+203.66.32.163 www.water.gov.tw
+203.66.34.2   wateroff.water.gov.tw
+203.66.34.3   wateroff.water.gov.tw
+203.66.35.5   wateroff.water.gov.tw
+203.66.32.98  wateroff.water.gov.tw
+203.66.34.14  wateroff.water.gov.tw
+203.66.32.200 wateroff.water.gov.tw
+203.66.32.7   wateroffmap.water.gov.tw
+203.66.32.71  wateroffmap.water.gov.tw
+203.66.35.65  wateroffmap.water.gov.tw
+203.66.32.105 wateroffmap.water.gov.tw
+203.66.32.110 wateroffmap.water.gov.tw
+# TW water End
+
 # TW CEC Start
 203.66.32.72  db.cec.gov.tw
 203.66.34.14  db.cec.gov.tw
@@ -513,6 +564,41 @@
 203.66.32.170 www.fnp.gov.tw
 203.66.32.139 www.fnp.gov.tw
 203.66.35.101 www.fnp.gov.tw
+203.66.32.3   www.ntbca.gov.tw
+203.66.32.6   www.ntbca.gov.tw
+203.66.35.3   www.ntbca.gov.tw
+203.66.32.10  www.ntbca.gov.tw
+203.66.34.13  www.ntbca.gov.tw
+203.66.32.33  www.ntbca.gov.tw
+203.66.32.35  www.ntbca.gov.tw
+203.66.32.39  www.ntbca.gov.tw
+203.66.32.40  www.ntbca.gov.tw
+203.66.32.36  www.ntbca.gov.tw
+203.66.34.12  www.ntbca.gov.tw
+203.66.34.10  www.ntbca.gov.tw
+203.66.34.45  www.ntbca.gov.tw
+203.66.35.14  www.ntbca.gov.tw
+203.66.35.66  www.ntbca.gov.tw
+203.66.35.67  www.ntbca.gov.tw
+203.66.35.74  www.ntbca.gov.tw
+203.66.35.78  www.ntbca.gov.tw
+203.66.35.98  www.ntbca.gov.tw
+203.66.32.100 www.ntbca.gov.tw
+203.66.32.130 www.ntbca.gov.tw
+203.66.32.138 www.ntbca.gov.tw
+203.66.32.139 www.ntbca.gov.tw
+203.66.32.142 www.ntbca.gov.tw
+203.66.32.163 www.ntbca.gov.tw
+203.66.32.172 www.ntbca.gov.tw
+203.66.32.193 www.ntbca.gov.tw
+203.66.32.194 www.ntbca.gov.tw
+203.66.32.197 www.ntbca.gov.tw
+203.66.32.202 www.ntbca.gov.tw
+203.66.32.203 www.ntbca.gov.tw
+203.66.32.206 www.ntbca.gov.tw
+203.66.35.100 www.ntbca.gov.tw
+203.66.35.101 www.ntbca.gov.tw
+203.66.35.103 www.ntbca.gov.tw
 203.66.34.6   www.ntbna.gov.tw
 203.66.34.8   www.ntbna.gov.tw
 203.66.35.3   www.ntbna.gov.tw
@@ -16830,6 +16916,17 @@
 192.0.78.229    asiatimes.com
 192.0.78.182    www.asiatimes.com
 192.0.78.229    www.asiatimes.com
+84.17.37.217    static.asiatimes.com
+141.164.35.160  static.asiatimes.com
+192.169.120.162 static.asiatimes.com
+13.35.35.87     taiwanplus.com
+13.35.35.91     taiwanplus.com
+13.35.35.96     taiwanplus.com
+13.35.35.105    taiwanplus.com
+203.69.81.48    www.taiwanplus.com
+203.69.81.57    www.taiwanplus.com
+203.69.81.41    prod-img.taiwanplus.com
+203.69.81.42    prod-img.taiwanplus.com
 23.81.45.4      unwire.hk
 209.58.167.25   unwire.hk
 64.120.121.204  unwire.hk
