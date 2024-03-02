@@ -11072,15 +11072,6 @@
 18.64.12.235   www.amazon.co.jp
 # Amazon End
 
-# Yesasia Start
-104.18.127.107 yesasia.com
-104.18.128.107 yesasia.com
-104.18.151.23  us.yesasia.com
-104.18.152.23  us.yesasia.com
-104.18.127.107 www.yesasia.com
-104.18.128.107 www.yesasia.com
-# Yesasia End
-
 # Rakuten Start
 133.237.132.93  rakuten.jp
 133.237.132.93  www.rakuten.jp
@@ -11234,6 +11225,15 @@
 133.237.62.220  websearch.rakuten.co.jp
 23.199.25.246   www.rakuten.co.jp
 # Rakuten End
+
+# Yesasia Start
+104.18.127.107 yesasia.com
+104.18.128.107 yesasia.com
+104.18.151.23  us.yesasia.com
+104.18.152.23  us.yesasia.com
+104.18.127.107 www.yesasia.com
+104.18.128.107 www.yesasia.com
+# Yesasia End
 
 # PCHome Start
 34.149.253.14   24h.m.pchome.com.tw
@@ -11598,7 +11598,6 @@
 118.214.244.80  cnalifestyle.channelnewsasia.com
 118.215.179.196 cnalifestyle.channelnewsasia.com
 # Channelnewsasia End
-
 
 # Thehindu Start
 104.18.39.235   thehindu.com
@@ -13280,7 +13279,7 @@
 # UCANEWS End
 
 # c-span Start
-13.35.166.13   c-span.org
+13.35.7.19     c-span.org
 13.225.131.5   c-span.org
 13.226.120.43  c-span.org
 13.226.120.65  c-span.org
@@ -13289,7 +13288,7 @@
 13.225.131.105 c-span.org
 13.226.120.106 c-span.org
 13.35.7.15     www.c-span.org
-13.35.166.13   www.c-span.org
+13.35.7.19     www.c-span.org
 13.35.7.112    www.c-span.org
 18.65.116.6    www.c-span.org
 13.224.141.106 www.c-span.org
@@ -13414,108 +13413,6 @@
 113.196.56.95 cdnec.sanmin.com.tw
 113.196.56.90 activity.sanmin.com.tw
 # Sanmin End
-
-# kobo Start
-104.18.37.155  assets.kobo.com
-172.64.150.101 assets.kobo.com
-104.18.37.155  de.kobo.com
-172.64.150.101 de.kobo.com
-104.18.37.155  es.kobo.com
-172.64.150.101 es.kobo.com
-104.18.37.155  fr.kobo.com
-172.64.150.101 fr.kobo.com
-89.187.65.68   insiders.kobo.com
-104.18.37.155  it.kobo.com
-172.64.150.101 it.kobo.com
-23.42.102.170  ja.kobo.com
-204.87.189.92  kobo.com
-84.39.136.9    magazines-adf.kobo.com
-172.64.150.101 nl.kobo.com
-172.64.150.101 pt.kobo.com
-104.18.37.155  ptbr.kobo.com
-172.64.150.101 ptbr.kobo.com
-104.18.37.155  read.kobo.com
-172.64.150.101 read.kobo.com
-104.18.37.155  rum.kobo.com
-172.64.150.101 rum.kobo.com
-104.18.37.155  stage.kobo.com
-172.64.150.101 stage.kobo.com
-104.18.37.155  storeapi.kobo.com
-172.64.150.101 storeapi.kobo.com
-104.18.37.155  storedownloads.kobo.com
-172.64.150.101 storedownloads.kobo.com
-104.18.37.155  tw.kobo.com
-172.64.150.101 tw.kobo.com
-104.18.37.155  www.kobo.com
-172.64.150.101 www.kobo.com
-104.18.37.210  akimages.kobobooks.com
-172.64.150.46  akimages.kobobooks.com
-104.18.37.210  api.kobobooks.com
-172.64.150.46  api.kobobooks.com
-23.227.38.74   au.kobobooks.com
-23.227.38.74   ca.kobobooks.com
-104.18.37.210  ca-fr.kobobooks.com
-172.64.150.46  ca-fr.kobobooks.com
-104.18.37.210  corporate.kobobooks.com
-172.64.150.46  corporate.kobobooks.com
-104.18.37.210  de.kobobooks.com
-172.64.150.46  de.kobobooks.com
-191.238.229.33 discovery.kobobooks.com
-104.18.37.210  ecimages.kobobooks.com
-172.64.150.46  ecimages.kobobooks.com
-204.87.189.71  ecimagest.kobobooks.com
-23.227.38.74   es.kobobooks.com
-104.18.37.210  esmx.kobobooks.com
-172.64.150.46  esmx.kobobooks.com
-104.18.37.210  esmxsecure.kobobooks.com
-172.64.150.46  esmxsecure.kobobooks.com
-23.227.38.74   fr.kobobooks.com
-204.87.189.201 ftp.kobobooks.com
-104.18.37.210  get.kobobooks.com
-172.64.150.46  get.kobobooks.com
-23.227.38.74   gl.kobobooks.com
-104.18.37.210  images.kobobooks.com
-172.64.150.46  images.kobobooks.com
-23.227.38.74   it.kobobooks.com
-204.87.189.97  kobobooks.com
-75.98.196.99   media.kobobooks.com
-104.18.37.210  merch.kobobooks.com
-172.64.150.46  merch.kobobooks.com
-104.18.37.210  mobilestage.kobobooks.com
-172.64.150.46  mobilestage.kobobooks.com
-23.227.38.74   nz.kobobooks.com
-104.18.37.210  partner.kobobooks.com
-172.64.150.46  partner.kobobooks.com
-204.87.189.87  prod-store.kobobooks.com
-204.87.189.51  prod-www.kobobooks.com
-23.227.38.74   pt.kobobooks.com
-104.18.37.210  ptbr.kobobooks.com
-172.64.150.46  ptbr.kobobooks.com
-104.18.37.210  ptbrsecure.kobobooks.com
-172.64.150.46  ptbrsecure.kobobooks.com
-104.18.37.210  ratingsapi.kobobooks.com
-172.64.150.46  ratingsapi.kobobooks.com
-104.18.37.210  read.kobobooks.com
-172.64.150.46  read.kobobooks.com
-104.18.37.210  secure.kobobooks.com
-172.64.150.46  secure.kobobooks.com
-104.18.37.210  social.kobobooks.com
-172.64.150.46  social.kobobooks.com
-104.18.37.210  store.kobobooks.com
-172.64.150.46  store.kobobooks.com
-104.18.37.210  tr.kobobooks.com
-172.64.150.46  tr.kobobooks.com
-23.227.38.74   uk.kobobooks.com
-23.227.38.74   us.kobobooks.com
-104.18.37.210  webstore.kobobooks.com
-172.64.150.46  webstore.kobobooks.com
-104.18.37.210  webstore2.kobobooks.com
-172.64.150.46  webstore2.kobobooks.com
-104.18.37.210  writinglife.kobobooks.com
-172.64.150.46  writinglife.kobobooks.com
-104.18.37.210  www.kobobooks.com
-172.64.150.46  www.kobobooks.com
-# kobo End
 
 # kobo Start
 104.18.37.155  assets.kobo.com
@@ -14097,6 +13994,8 @@
 118.214.246.68  static.rfi.fr
 # rfi End
 
+
+
 # dw Start
 194.55.26.46    dw.com
 194.55.30.46    dw.com
@@ -14212,7 +14111,7 @@
 18.64.8.14      sueddeutsche-de.sueddeutsche.de
 99.86.199.8     sueddeutsche-de.sueddeutsche.de
 18.65.159.101   sueddeutsche-de.sueddeutsche.de
-13.35.166.122    sueddeutsche-de.sueddeutsche.de
+13.224.167.16   sueddeutsche-de.sueddeutsche.de
 13.224.167.17   sueddeutsche-de.sueddeutsche.de
 13.224.167.109  sueddeutsche-de.sueddeutsche.de
 # sueddeutsche End
@@ -14396,7 +14295,7 @@
 210.71.227.153  jp.reuters.com
 13.35.7.62      liaison.reuters.com
 13.35.7.64      liaison.reuters.com
-13.35.166.78   liaison.reuters.com
+13.35.7.114     liaison.reuters.com
 13.35.7.121     liaison.reuters.com
 167.68.44.27    live.reuters.com
 167.68.44.27    lta.reuters.com
@@ -14477,7 +14376,6 @@
 103.135.110.11  static.bangkokpost.com
 103.135.110.11  property.bangkokpost.com
 # Bangkokpost End
-
 
 # newsweek Start
 75.2.107.81    newsweek.com
@@ -16904,7 +16802,7 @@
 151.101.194.167 app.twitch.tv
 146.75.50.214   api.twitch.tv
 13.35.7.28      cvp.twitch.tv
-13.35.166.10  cvp.twitch.tv
+13.35.7.41      cvp.twitch.tv
 13.35.7.84      cvp.twitch.tv
 13.35.7.107     cvp.twitch.tv
 13.35.7.147     dev.twitch.tv
@@ -17190,10 +17088,15 @@
 13.35.7.33      share.america.gov
 13.35.7.61      share.america.gov
 13.35.7.84      share.america.gov
+20.158.41.194   bis.doc.gov
 172.65.90.24    www.bis.doc.gov
 172.65.90.25    www.bis.doc.gov
 172.65.90.26    www.bis.doc.gov
 172.65.90.27    www.bis.doc.gov
+13.35.7.11      share.america.gov
+13.35.7.33      share.america.gov
+13.35.7.61      share.america.gov
+13.35.7.84      share.america.gov
 192.0.78.13     en.wordpress.com
 192.0.78.12     en.wordpress.com
 192.0.78.13     www.en.wordpress.com
