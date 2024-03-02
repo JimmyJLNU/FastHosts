@@ -2811,6 +2811,148 @@
 104.17.53.70    miscmedia-9gag-fun.9cache.com
 # 9gag End
 
+# Truthsocial Start
+104.18.36.131  truthsocial.com
+172.64.151.125 truthsocial.com
+104.18.36.131  www.truthsocial.com
+172.64.151.125 www.truthsocial.com
+104.18.36.131  help.truthsocial.com
+172.64.151.125 help.truthsocial.com
+104.18.36.131  links.truthsocial.com
+172.64.151.125 links.truthsocial.com
+104.18.36.131  static-assets-1.truthsocial.com
+172.64.151.125 static-assets-1.truthsocial.com
+# Truthsocial End
+
+# Greatfire Start
+104.26.0.182  greatfire.org
+104.26.1.182  greatfire.org
+104.26.0.182  cc.greatfire.org
+104.26.1.182  cc.greatfire.org
+104.26.0.182  en.greatfire.org
+104.26.1.182  en.greatfire.org
+104.26.0.182  zh.greatfire.org
+104.26.1.182  zh.greatfire.org
+104.26.0.182  media.greatfire.org
+104.26.1.182  media.greatfire.org
+104.26.0.182  blocky.greatfire.org
+104.26.1.182  blocky.greatfire.org
+104.26.0.182  appmaker.greatfire.org
+104.26.1.182  appmaker.greatfire.org
+104.26.0.182  appstore.greatfire.org
+104.26.1.182  appstore.greatfire.org
+# Greatfire End
+
+# CSIS Start
+23.185.0.3      csis.org
+23.185.0.3      www.csis.org
+104.197.129.166 amti.csis.org
+104.197.129.166 aerospace.csis.org
+104.197.129.166 chinapower.csis.org
+104.22.12.209   ontheradar.csis.org
+104.22.13.209   ontheradar.csis.org
+172.67.13.187   ontheradar.csis.org
+104.197.129.166 missilethreat.csis.org
+104.197.129.166 beyondparallel.csis.org
+104.22.12.209   healthsecurity.csis.org
+104.22.13.209   healthsecurity.csis.org
+172.67.13.187   healthsecurity.csis.org
+104.22.12.209   arcticmilitarytracker.csis.org
+104.22.13.209   arcticmilitarytracker.csis.org
+172.67.13.187   arcticmilitarytracker.csis.org
+# CSIS End
+
+# Udn Start
+23.42.102.253   udn.com
+13.35.7.17      a.udn.com
+13.35.7.47      a.udn.com
+13.35.7.50      a.udn.com
+13.35.7.98      a.udn.com
+23.42.102.253   m.udn.com
+152.199.43.216  gb.udn.com
+210.243.166.89  act.udn.com
+210.243.166.49  mag.udn.com
+23.42.102.253   nba.udn.com
+23.42.102.253   cdn.udn.com
+152.199.43.216  vip.udn.com
+23.42.102.253   www.udn.com
+210.244.31.135  edn.udn.com
+34.110.227.3    cas.udn.com
+23.42.102.253   blog.udn.com
+23.42.102.253   city.udn.com
+152.199.43.216  expo.udn.com
+23.42.102.253   fund.udn.com
+23.42.102.253   oops.udn.com
+210.243.166.77  data.udn.com
+23.42.102.253   album.udn.com
+210.243.166.166 event.udn.com
+23.42.102.253   style.udn.com
+23.42.102.253   paper.udn.com
+23.42.102.253   autos.udn.com
+210.243.166.62  forum.udn.com
+23.42.102.253   money.udn.com
+13.35.35.47     video.udn.com
+13.35.35.53     video.udn.com
+13.35.35.79     video.udn.com
+13.35.35.110    video.udn.com
+23.42.102.253   theme.udn.com
+23.42.102.253   stars.udn.com
+23.42.102.253   topic.udn.com
+23.42.102.253   house.udn.com
+23.42.102.253   active.udn.com
+23.42.102.253   mobile.udn.com
+23.42.102.253   debate.udn.com
+23.42.102.253   global.udn.com
+23.42.102.253   health.udn.com
+23.42.102.253   reader.udn.com
+152.199.43.216  member.udn.com
+23.42.102.253   vision.udn.com
+210.243.166.93  reading.udn.com
+23.42.102.253   upoints.udn.com
+23.42.102.253   utravel.udn.com
+23.42.102.253   opinion.udn.com
+23.42.102.253   shopping.udn.com
+23.42.102.253   udntalks.udn.com
+211.78.81.155   ishow.udn.com
+210.244.31.135  life.ishow.udn.com
+152.199.43.216  classic-blog.udn.com
+210.243.166.144 udn.com.tw
+23.42.103.2     g.udn.com.tw
+23.42.103.2     m.udn.com.tw
+23.42.103.2     p.udn.com.tw
+23.42.103.2     s.udn.com.tw
+23.42.103.2     p3.udn.com.tw
+23.42.103.2     uc.udn.com.tw
+152.199.43.216  pgw.udn.com.tw
+210.243.166.144 www.udn.com.tw
+34.98.127.66    dtuc.udn.com.tw
+210.243.166.52  ori-p.udn.com.tw
+34.98.86.167    newmedia.udn.com.tw
+# Udn End
+
+# Watchout Start
+104.21.83.88  watchout.tw
+172.67.219.85 watchout.tw
+104.21.83.88  ask.watchout.tw
+172.67.219.85 ask.watchout.tw
+104.21.83.88  lab.watchout.tw
+172.67.219.85 lab.watchout.tw
+104.21.83.88  www.watchout.tw
+172.67.219.85 www.watchout.tw
+104.21.83.88  beta.watchout.tw
+172.67.219.85 beta.watchout.tw
+104.21.83.88  jobs.watchout.tw
+172.67.219.85 jobs.watchout.tw
+104.21.83.88  bunko.watchout.tw
+172.67.219.85 bunko.watchout.tw
+104.21.83.88  member.watchout.tw
+172.67.219.85 member.watchout.tw
+104.21.83.88  core.watchout.tw
+172.67.219.85 core.watchout.tw
+104.21.83.88  docs.core.watchout.tw
+172.67.219.85 docs.core.watchout.tw
+# Watchout End
+
 # vectorstock Start
 13.32.99.41     vectorstock.com
 13.35.166.6     vectorstock.com
@@ -16962,6 +17104,36 @@
 74.112.186.144  m.box.com
 74.112.186.144  app.box.com
 74.112.186.144  quantum.app.box.com
+104.20.9.218    v2ex.com
+104.20.10.218   v2ex.com
+104.20.9.218    cdn.v2ex.com
+104.20.10.218   cdn.v2ex.com
+104.20.9.218    www.v2ex.com
+104.20.10.218   www.v2ex.com
+104.21.12.189   gfw.report
+172.67.132.86   gfw.report
+104.21.12.189   www.gfw.report
+172.67.132.86   www.gfw.report
+104.21.11.217   pao-pao.net
+172.67.167.73   pao-pao.net
+104.21.11.217   www.pao-pao.net
+172.67.167.73   www.pao-pao.net
+104.21.19.25    freeweibo.com
+172.67.184.230  freeweibo.com
+104.21.19.25    www.freeweibo.com
+172.67.184.230  www.freeweibo.com
+104.26.8.164    freezhihu.org
+104.26.9.164    freezhihu.org
+104.26.8.164    www.freezhihu.org
+104.26.9.164    www.freezhihu.org
+104.21.7.32     freewechat.com
+172.67.135.174  freewechat.com
+104.21.7.32     www.freewechat.com
+172.67.135.174  www.freewechat.com
+104.21.13.205   wikiunblocked.org
+172.67.133.24   wikiunblocked.org
+104.21.13.205   www.wikiunblocked.org
+172.67.133.24   www.wikiunblocked.org
 104.21.12.189   gfw.report
 172.67.132.86   gfw.report
 104.21.12.189   www.gfw.report
@@ -17175,6 +17347,29 @@
 192.0.66.199    theintercept.com
 192.0.66.199    www.theintercept.com
 54.153.105.115  join.theintercept.com
+192.124.249.153 upmedia.mg
+192.124.249.153 www.upmedia.mg
+104.18.20.219   rwnews.tw
+104.18.21.219   rwnews.tw
+104.18.20.219   www.rwnews.tw
+104.18.21.219   www.rwnews.tw
+104.18.20.219   politics.rwnews.tw
+104.18.21.219   politics.rwnews.tw
+104.18.20.219   forrwtest.rwnews.tw
+104.18.21.219   forrwtest.rwnews.tw
+13.113.7.156    yimedia.com.tw
+104.21.67.73    101newsmedia.com
+172.67.217.131  101newsmedia.com
+104.21.67.73    www.101newsmedia.com
+172.67.217.131  www.101newsmedia.com
+104.26.14.115   worldjournal.com
+104.26.15.115   worldjournal.com
+104.26.14.115   ep.worldjournal.com
+104.26.15.115   ep.worldjournal.com
+104.26.14.115   pgw.worldjournal.com
+104.26.15.115   pgw.worldjournal.com
+104.26.14.115   www.worldjournal.com
+104.26.15.115   www.worldjournal.com
 172.104.110.181 tfc-taiwan.org.tw
 172.104.110.181 www.tfc-taiwan.org.tw
 172.104.110.181 education.tfc-taiwan.org.tw
