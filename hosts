@@ -391,7 +391,7 @@
 203.66.32.105 www.banking.gov.tw
 203.66.32.107 www.banking.gov.tw
 203.66.32.136 www.banking.gov.tw
-203.66.32.163 www.banking.gov.tw  
+203.66.32.163 www.banking.gov.tw
 203.66.32.167 www.banking.gov.tw
 203.66.32.168 www.banking.gov.tw
 203.66.32.172 www.banking.gov.tw
@@ -3056,6 +3056,10 @@
 217.20.155.16  m.ok.ru
 217.20.152.234 m.ok.ru
 217.20.156.131 m.ok.ru
+217.20.147.8   v.ok.ru
+217.20.155.83  v.ok.ru
+217.20.156.16  v.ok.ru
+217.20.152.254 v.ok.ru
 217.20.147.8   tv.ok.ru
 217.20.155.83  tv.ok.ru
 217.20.156.16  tv.ok.ru
@@ -3063,6 +3067,7 @@
 5.61.23.11     www.ok.ru
 217.20.147.1   www.ok.ru
 217.20.155.13  www.ok.ru
+217.20.152.214 wmf.ok.ru
 217.20.147.8   live.ok.ru
 217.20.155.83  live.ok.ru
 217.20.156.16  live.ok.ru
