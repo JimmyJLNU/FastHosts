@@ -18779,6 +18779,29 @@
 104.18.212.25  smiletaiwan.cw.com.tw
 # CW End
 
+# The Standard Start
+104.22.78.203 thestandard.com.hk
+104.22.79.203 thestandard.com.hk
+172.67.43.132 thestandard.com.hk
+104.22.78.203 www.thestandard.com.hk
+104.22.79.203 www.thestandard.com.hk
+172.67.43.132 www.thestandard.com.hk
+104.22.78.203 paper.thestandard.com.hk
+104.22.79.203 paper.thestandard.com.hk
+172.67.43.132 paper.thestandard.com.hk
+104.22.78.203 student.thestandard.com.hk
+104.22.79.203 student.thestandard.com.hk
+172.67.43.132 student.thestandard.com.hk
+203.80.1.60   finance.thestandard.com.hk
+104.22.78.203 www.student.thestandard.com.hk
+104.22.79.203 www.student.thestandard.com.hk
+172.67.43.132 www.student.thestandard.com.hk
+203.80.1.164  schoolepaper.thestandard.com.hk
+104.22.78.203 studentstandard.thestandard.com.hk
+104.22.79.203 studentstandard.thestandard.com.hk
+172.67.43.132 studentstandard.thestandard.com.hk
+# The Standard End
+
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
