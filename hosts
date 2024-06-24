@@ -2891,6 +2891,8 @@
 172.67.209.80   pttweb.cc
 104.21.77.150   www.pttweb.cc
 172.67.209.80   www.pttweb.cc
+104.21.83.131   pttyes.com
+172.67.176.153  pttyes.com
 104.21.40.165   webptt.com
 104.21.40.165   www.webptt.com
 104.21.61.6     newsptt.com
@@ -6548,9 +6550,10 @@
 45.131.244.10   my.pcloud.com
 45.131.244.11   my.pcloud.com
 45.131.244.12   my.pcloud.com
-203.195.121.116 pcdn-e.pcloud.com
-203.195.121.116 pcdn-u.pcloud.com
-203.195.121.116 pcdn-my.pcloud.com
+178.249.213.69  pcdn-e.pcloud.com
+178.249.213.69  pcdn-u.pcloud.com
+178.249.213.69  pcdn-my.pcloud.com
+178.249.213.69  pcdn-www.pcloud.com
 # PCloud End
 
 # MEGA Start
