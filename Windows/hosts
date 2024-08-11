@@ -19427,6 +19427,15 @@
 212.102.50.27   thumbnails.odycdn.com
 # odysee End
 
+# sinovision Start
+23.239.30.80    sinovision.net
+23.239.30.80    m.sinovision.net
+23.239.30.80    www.sinovision.net
+66.228.48.133   video.sinovision.net
+149.248.18.155  cdnwww.sinovision.net
+149.248.18.155  cdnvideo.sinovision.net
+# sinovision End
+
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
