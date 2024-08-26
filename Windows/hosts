@@ -2660,16 +2660,16 @@
 172.217.163.59  storage.googleapis.com
 142.250.206.219 storage.googleapis.com
 142.251.43.19   bugs.chromium.org
+142.250.66.115  bugs.chromium.org
 142.251.42.243  bugs.chromium.org
 142.250.207.19  bugs.chromium.org
 142.250.207.83  bugs.chromium.org
-142.250.66.115  bugs.chromium.org
 172.217.163.51  bugs.chromium.org
-142.251.43.19   bugs.chromium.org
+142.251.43.19   codereview.chromium.org
+142.250.66.115  codereview.chromium.org
 142.251.42.243  codereview.chromium.org
 142.250.207.19  codereview.chromium.org
 142.250.207.83  codereview.chromium.org
-142.250.66.115  codereview.chromium.org
 172.217.163.51  codereview.chromium.org
 216.58.200.19   armsglobe.chromeexperiments.com
 # Google Basic End
