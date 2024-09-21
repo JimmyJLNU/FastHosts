@@ -4976,24 +4976,6 @@
 
 # China Start
 218.213.85.61   us.weibo.com
-42.101.73.83    bj.crntt.com
-36.104.135.136  bj.crntt.com
-36.104.136.176  bj.crntt.com
-42.101.73.83    hk.crntt.com
-36.104.135.136  hk.crntt.com
-36.104.136.176  hk.crntt.com
-42.101.73.83    gb.crntt.com
-36.104.135.136  gb.crntt.com
-36.104.136.176  gb.crntt.com
-42.101.73.83    www.crntt.com
-36.104.135.136  www.crntt.com
-36.104.136.176  www.crntt.com
-42.101.73.83    cnpic.crntt.com
-36.104.135.136  cnpic.crntt.com
-36.104.136.176  cnpic.crntt.com
-42.101.73.83    hkpic.crntt.com
-36.104.135.136  hkpic.crntt.com
-36.104.136.176  hkpic.crntt.com
 120.201.235.238 s3.bytecdn.cn
 120.201.235.239 s3.bytecdn.cn
 120.201.235.240 s3.bytecdn.cn
@@ -5129,18 +5111,18 @@
 210.71.227.169 p16-heycan-sign-va.ibyteimg.com
 210.71.227.187 p16-heycan-sign-va.ibyteimg.com
 203.69.138.222 p16-heycan-sign-va.ibyteimg.com
-146.75.94.73   p19-heycan-sign-va.ibyteimg.com
-151.101.42.73  p19-heycan-sign-va.ibyteimg.com
-151.101.198.73 p19-heycan-sign-va.ibyteimg.com
+#146.75.94.73   p19-heycan-sign-va.ibyteimg.com
+#151.101.42.73  p19-heycan-sign-va.ibyteimg.com
+#151.101.198.73 p19-heycan-sign-va.ibyteimg.com
 210.71.227.120 p16-heycan-useast2a.ibyteimg.com
 210.71.227.178 p16-heycan-useast2a.ibyteimg.com
 203.69.138.230 p16-heycan-useast2a.ibyteimg.com
-146.75.94.73   p19-heycan-useast2a.ibyteimg.com
-151.101.42.73  p19-heycan-useast2a.ibyteimg.com
-151.101.198.73 p19-heycan-useast2a.ibyteimg.com
-146.75.94.73   p19-heycan-file-sign-va.ibyteimg.com
-151.101.42.73  p19-heycan-file-sign-va.ibyteimg.com
-151.101.198.73 p19-heycan-file-sign-va.ibyteimg.com
+#146.75.94.73   p19-heycan-useast2a.ibyteimg.com
+#151.101.42.73  p19-heycan-useast2a.ibyteimg.com
+#151.101.198.73 p19-heycan-useast2a.ibyteimg.com
+#146.75.94.73   p19-heycan-file-sign-va.ibyteimg.com
+#151.101.42.73  p19-heycan-file-sign-va.ibyteimg.com
+#151.101.198.73 p19-heycan-file-sign-va.ibyteimg.com
 210.71.227.99  p16-heycan-image-sign-sg.ibyteimg.com
 210.71.227.147 p16-heycan-image-sign-sg.ibyteimg.com
 203.69.138.214 p16-heycan-image-sign-sg.ibyteimg.com
@@ -5149,9 +5131,9 @@
 203.69.138.209 lf16-effectcdn.byteeffecttos-g.com
 210.71.227.136 lf16-effectcdn.byteeffecttos-g.com
 210.71.227.138 lf16-effectcdn.byteeffecttos-g.com
-146.75.94.73   lf19-effectcdn.byteeffecttos-g.com
-151.101.42.73  lf19-effectcdn.byteeffecttos-g.com
-151.101.198.73 lf19-effectcdn.byteeffecttos-g.com
+#146.75.94.73   lf19-effectcdn.byteeffecttos-g.com
+#151.101.42.73  lf19-effectcdn.byteeffecttos-g.com
+#151.101.198.73 lf19-effectcdn.byteeffecttos-g.com
 203.69.141.9   tnc16-alisg.isnssdk.com
 203.69.141.27  tnc16-alisg.isnssdk.com
 210.65.144.136 tnc16-alisg.isnssdk.com
@@ -19739,9 +19721,9 @@
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
-90.84.161.26    www.gov.hk
-90.84.161.28    www.gov.hk
+219.76.20.214   www.gov.hk
 219.76.20.215   www.gov.hk
+219.76.20.216   www.gov.hk
 18.162.140.230  e123.hk
 18.162.140.230  www.e123.hk
 146.75.48.144   www.gov.uk
