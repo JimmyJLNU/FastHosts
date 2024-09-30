@@ -4962,20 +4962,6 @@
 104.21.46.128   h.anhesiji.com
 104.21.46.128   static.szhgh.com
 139.209.32.12   video.jlsy.gov.cn
-218.60.21.9     hls.cntv.kcdnvip.com
-218.60.21.10    hls.cntv.kcdnvip.com
-123.184.57.129  hls.cntv.kcdnvip.com
-123.184.57.131  hls.cntv.kcdnvip.com
-123.184.57.133  hls.cntv.kcdnvip.com
-182.201.242.131 hls.cntv.kcdnvip.com
-182.201.242.133 hls.cntv.kcdnvip.com
-218.60.21.9     hlswx.cntv.kcdnvip.com
-218.60.21.10    hlswx.cntv.kcdnvip.com
-123.184.57.129  hlswx.cntv.kcdnvip.com
-123.184.57.131  hlswx.cntv.kcdnvip.com
-123.184.57.133  hlswx.cntv.kcdnvip.com
-182.201.242.131 hlswx.cntv.kcdnvip.com
-182.201.242.133 hlswx.cntv.kcdnvip.com
 61.170.77.223   ykugc.cp31.ott.cibntv.net
 61.170.77.224   ykugc.cp31.ott.cibntv.net
 61.170.77.225   ykugc.cp31.ott.cibntv.net
@@ -5171,6 +5157,10 @@
 
 # CDN Start
 121.254.136.17  a248.e.akamai.net
+13.35.5.27      cfvod.kaltura.com
+23.42.100.133   cdnapisec.kaltura.com
+23.49.113.248   cdnapisec.kaltura.com
+23.54.245.159   cdnapisec.kaltura.com
 210.71.227.58   vod-stream.nhk.jp
 210.71.227.59   vod-stream.nhk.jp
 210.71.227.8    nhkwlive-ojp.akamaized.net
