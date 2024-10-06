@@ -5180,6 +5180,7 @@
 # CDN Start
 121.254.136.17  a248.e.akamai.net
 13.35.5.27      cfvod.kaltura.com
+3.166.240.163   cfvod.kaltura.com
 23.42.100.133   cdnapisec.kaltura.com
 23.49.113.248   cdnapisec.kaltura.com
 23.54.245.159   cdnapisec.kaltura.com
@@ -19711,9 +19712,22 @@
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
-219.76.20.214   www.gov.hk
-219.76.20.215   www.gov.hk
-219.76.20.216   www.gov.hk
+90.84.161.14    www.gov.hk
+90.84.161.15    www.gov.hk
+90.84.161.16    www.gov.hk
+90.84.161.17    www.gov.hk
+90.84.161.18    www.gov.hk
+90.84.161.19    www.gov.hk
+90.84.161.20    www.gov.hk
+90.84.161.21    www.gov.hk
+90.84.161.22    www.gov.hk
+90.84.161.23    www.gov.hk
+90.84.161.24    www.gov.hk
+90.84.161.25    www.gov.hk
+90.84.161.26    www.gov.hk
+90.84.161.27    www.gov.hk
+90.84.161.28    www.gov.hk
+90.84.161.29    www.gov.hk
 18.162.140.230  e123.hk
 18.162.140.230  www.e123.hk
 146.75.48.144   www.gov.uk
