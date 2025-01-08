@@ -18726,6 +18726,27 @@
 211.239.236.16  voa-video-ns.akamaized.net
 # VOA End
 
+# Docker Start
+44.221.37.199  docker.io
+52.44.227.212  docker.io
+54.156.140.159 docker.io
+44.221.37.199  www.docker.io
+52.44.227.212  www.docker.io
+54.156.140.159 www.docker.io
+44.221.37.199  docs.docker.io
+52.44.227.212  docs.docker.io
+54.156.140.159 docs.docker.io
+54.198.86.24   auth.docker.io
+54.227.20.253  auth.docker.io
+54.236.113.205 auth.docker.io
+54.198.86.24   index.docker.io
+54.227.20.253  index.docker.io
+54.236.113.205 index.docker.io
+44.221.37.199  hub.docker.com
+52.44.227.212  hub.docker.com
+54.156.140.159 hub.docker.com
+# Docker End
+
 # OONI Start
 75.2.60.5       ooni.org
 3.78.20.156     api.ooni.org
