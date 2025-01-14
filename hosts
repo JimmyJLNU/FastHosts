@@ -21287,10 +21287,28 @@
 146.75.51.52    share.transistor.fm
 151.101.79.52   share.transistor.fm
 211.239.236.9   podcasts.captivate.fm
+104.26.8.81     dirpy.com
+104.26.9.81     dirpy.com
+104.26.8.81     www.dirpy.com
+104.26.9.81     www.dirpy.com
 34.220.173.34   tubeninja.net
 34.220.173.34   www.tubeninja.net
 104.21.65.8     pastedownload.com
 104.21.65.8     www.pastedownload.com
+104.21.16.1     iyoutubetomp4.com
+104.21.32.1     iyoutubetomp4.com
+104.21.48.1     iyoutubetomp4.com
+104.21.64.1     iyoutubetomp4.com
+104.21.80.1     iyoutubetomp4.com
+104.21.96.1     iyoutubetomp4.com
+104.21.112.1    iyoutubetomp4.com
+104.21.16.1     www.iyoutubetomp4.com
+104.21.32.1     www.iyoutubetomp4.com
+104.21.48.1     www.iyoutubetomp4.com
+104.21.64.1     www.iyoutubetomp4.com
+104.21.80.1     www.iyoutubetomp4.com
+104.21.96.1     www.iyoutubetomp4.com
+104.21.112.1    www.iyoutubetomp4.com
 43.129.69.57    www.parsevideo.com
 43.129.69.57    www.parsevideo.net
 13.85.20.144    google87.azurewebsites.net
@@ -21309,6 +21327,10 @@
 104.21.71.74    www.piped.video
 172.67.143.229  www.piped.video
 31.17.42.11     piped.privacy.com.de
+104.26.0.30     amoyshare.com
+104.26.1.30     amoyshare.com
+104.26.0.30     www.amoyshare.com
+104.26.1.30     www.amoyshare.com
 202.61.230.52   yt.cdaut.de
 186.105.170.63  inv.zzls.xyz
 150.230.26.137  inv.n8pjl.ca
@@ -21455,6 +21477,49 @@
 104.21.65.207   nitter.x86-64-unknown-linux-gnu.zip
 172.67.167.14   nitter.x86-64-unknown-linux-gnu.zip
 # Others End
+
+# noTube Start
+104.27.205.87   notube.net
+104.27.206.87   notube.net
+104.27.205.87   cdn.notube.net
+104.27.206.87   cdn.notube.net
+104.27.205.87   www.notube.net
+104.27.206.87   www.notube.net
+141.95.85.39    s39.notube.net
+208.115.215.82  s40.notube.net
+208.115.215.66  s41.notube.net
+64.31.14.114    s42.notube.net
+64.31.8.130     s43.notube.net
+64.31.8.146     s44.notube.net
+64.31.49.130    s45.notube.net
+64.31.47.194    s46.notube.net
+64.31.49.146    s47.notube.net
+64.31.8.178     s48.notube.net
+64.31.7.34      s49.notube.net
+64.31.7.2       s50.notube.net
+64.31.7.66      s51.notube.net
+64.31.34.226    s52.notube.net
+64.31.34.194    s53.notube.net
+64.31.14.34     s54.notube.net
+64.31.14.130    s55.notube.net
+64.31.22.114    s56.notube.net
+208.115.216.114 s57.notube.net
+74.63.194.226   s58.notube.net
+64.31.23.66     s59.notube.net
+64.31.23.50     s60.notube.net
+74.63.206.242   s61.notube.net
+69.162.115.82   s62.notube.net
+64.31.10.66     s63.notube.net
+64.31.49.34     s64.notube.net
+208.115.220.66  s65.notube.net
+208.115.239.18  s66.notube.net
+64.31.24.130    s67.notube.net
+208.115.235.194 s68.notube.net
+64.31.18.66     s69.notube.net
+64.31.10.146    s70.notube.net
+208.115.249.2   s71.notube.net
+208.115.247.34  s72.notube.net
+# noTube End
 
 # Scribd Start
 151.101.2.152   scribd.com
