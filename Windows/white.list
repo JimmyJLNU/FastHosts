@@ -5062,37 +5062,6 @@
 61.170.80.231   vali-ugc.cp31.ott.cibntv.net
 61.170.80.232   vali-ugc.cp31.ott.cibntv.net
 61.170.80.233   vali-ugc.cp31.ott.cibntv.net
-116.142.251.102 upos-sz-mirrorhw.bilivideo.com
-116.142.251.103 upos-sz-mirrorhw.bilivideo.com
-111.26.56.92    upos-sz-mirrorhw.bilivideo.com
-111.26.56.93    upos-sz-mirrorhw.bilivideo.com
-42.101.23.53    upos-sz-mirrorhw.bilivideo.com
-42.101.23.54    upos-sz-mirrorhw.bilivideo.com
-42.101.21.237   upos-sz-mirrorhw.bilivideo.com
-116.142.251.102 upos-sz-mirrorhwb.bilivideo.com
-116.142.251.103 upos-sz-mirrorhwb.bilivideo.com
-111.26.56.92    upos-sz-mirrorhwb.bilivideo.com
-111.26.56.93    upos-sz-mirrorhwb.bilivideo.com
-42.101.23.52    upos-sz-mirrorhwb.bilivideo.com
-42.101.23.54    upos-sz-mirrorhwb.bilivideo.com
-42.101.23.192   upos-sz-mirrorhwb.bilivideo.com
-42.101.23.193   upos-sz-mirrorhwb.bilivideo.com
-42.248.133.68   upos-sz-mirrorhwb.bilivideo.com
-42.248.133.70   upos-sz-mirrorhwb.bilivideo.com
-116.142.251.100 upos-sz-mirror08c.bilivideo.com
-42.101.23.188   upos-sz-mirror08c.bilivideo.com
-42.101.23.190   upos-sz-mirror08c.bilivideo.com
-42.185.159.89   upos-sz-mirror08c.bilivideo.com
-42.248.133.66   upos-sz-mirror08c.bilivideo.com
-42.248.133.67   upos-sz-mirror08c.bilivideo.com
-116.142.251.100 upos-sz-mirror08h.bilivideo.com
-42.101.23.188   upos-sz-mirror08h.bilivideo.com
-42.101.23.189   upos-sz-mirror08h.bilivideo.com
-42.185.159.88   upos-sz-mirror08h.bilivideo.com
-42.185.159.91   upos-sz-mirror08h.bilivideo.com
-42.248.133.67   upos-sz-mirror08h.bilivideo.com
-42.248.133.68   upos-sz-mirror08h.bilivideo.com
-42.248.133.70   upos-sz-mirror08h.bilivideo.com
 219.76.10.184   upos-hz-mirrorakam.akamaized.net
 61.213.189.193  upos-hz-mirrorakam.akamaized.net
 211.239.236.24  upos-hz-mirrorakam.akamaized.net
@@ -6076,13 +6045,9 @@
 
 # OneDrive Start
 13.107.42.13    onedrive.live.com
-23.77.58.41     api.onedrive.live.com
-23.41.67.155    api.onedrive.live.com
-23.8.98.100     api.onedrive.live.com
-23.218.59.81    api.onedrive.live.com
+118.214.242.102 api.onedrive.live.com
 13.107.42.13    www.onedrive.live.com
-131.253.14.230  skyapi.onedrive.live.com
-131.253.14.227  skyapi.onedrive.live.com
+13.107.42.12    skyapi.onedrive.live.com
 # OneDrive End
 
 # Github Start
