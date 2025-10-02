@@ -1054,24 +1054,21 @@
 # TW MOL End
 
 # TW NCC Start
-203.66.32.2   www.ncc.gov.tw
-203.66.32.6   www.ncc.gov.tw
-203.66.34.10  www.ncc.gov.tw
-203.66.32.100 www.ncc.gov.tw
-203.66.32.194 www.ncc.gov.tw
-203.66.204.66 tsba.ncc.gov.tw
-203.66.204.66 memf.ncc.gov.tw
-203.66.204.66 opweb.ncc.gov.tw
-203.66.204.66 btevp.ncc.gov.tw
-203.66.204.66 ncclaw.ncc.gov.tw
-203.66.204.66 nccmla.ncc.gov.tw
-203.66.204.66 nccstat.ncc.gov.tw
-203.66.204.66 freqdbo.ncc.gov.tw
-203.66.204.66 intlfocus.ncc.gov.tw
-203.66.204.66 graphwebn.ncc.gov.tw
-203.66.204.66 nccmember.ncc.gov.tw
-203.66.204.66 commsurvey.ncc.gov.tw
-203.66.204.66 cabletvweb.ncc.gov.tw
+172.65.90.66 www.ncc.gov.tw
+172.65.90.67 www.ncc.gov.tw
+172.65.90.66 tsba.ncc.gov.tw
+172.65.90.66 memf.ncc.gov.tw
+172.65.90.66 opweb.ncc.gov.tw
+172.65.90.66 btevp.ncc.gov.tw
+172.65.90.66 ncclaw.ncc.gov.tw
+172.65.90.66 nccmla.ncc.gov.tw
+172.65.90.66 nccstat.ncc.gov.tw
+172.65.90.66 freqdbo.ncc.gov.tw
+172.65.90.66 intlfocus.ncc.gov.tw
+172.65.90.66 graphwebn.ncc.gov.tw
+172.65.90.66 nccmember.ncc.gov.tw
+172.65.90.66 commsurvey.ncc.gov.tw
+172.65.90.66 cabletvweb.ncc.gov.tw
 # TW NCC End
 
 # TW NPA Start
@@ -5085,15 +5082,9 @@
 210.71.227.169 p16-heycan-sign-va.ibyteimg.com
 210.71.227.187 p16-heycan-sign-va.ibyteimg.com
 203.69.138.222 p16-heycan-sign-va.ibyteimg.com
-151.101.90.73  p19-heycan-sign-va.ibyteimg.com
-146.75.114.73  p19-heycan-sign-va.ibyteimg.com
 210.71.227.120 p16-heycan-useast2a.ibyteimg.com
 210.71.227.178 p16-heycan-useast2a.ibyteimg.com
 203.69.138.230 p16-heycan-useast2a.ibyteimg.com
-151.101.90.73  p19-heycan-useast2a.ibyteimg.com
-146.75.114.73  p19-heycan-useast2a.ibyteimg.com
-151.101.90.73  p19-heycan-file-sign-va.ibyteimg.com
-146.75.114.73  p19-heycan-file-sign-va.ibyteimg.com
 210.71.227.99  p16-heycan-image-sign-sg.ibyteimg.com
 210.71.227.147 p16-heycan-image-sign-sg.ibyteimg.com
 203.69.138.214 p16-heycan-image-sign-sg.ibyteimg.com
@@ -5102,8 +5093,6 @@
 203.69.138.209 lf16-effectcdn.byteeffecttos-g.com
 210.71.227.136 lf16-effectcdn.byteeffecttos-g.com
 210.71.227.138 lf16-effectcdn.byteeffecttos-g.com
-151.101.90.73  lf19-effectcdn.byteeffecttos-g.com
-146.75.114.73  lf19-effectcdn.byteeffecttos-g.com
 203.69.141.9   tnc16-alisg.isnssdk.com
 203.69.141.27  tnc16-alisg.isnssdk.com
 210.65.144.136 tnc16-alisg.isnssdk.com
@@ -21095,6 +21084,10 @@
 172.67.190.164  www.hkgpao.com
 104.21.41.92    wehk.hkgpao.com
 172.67.190.164  wehk.hkgpao.com
+202.126.57.188  tvb.com
+202.126.57.188  www.tvb.com
+202.126.57.188  www.tvb.com.hk
+202.126.53.107  programme.tvb.com
 34.117.164.167  inews-api.tvb.com
 104.21.14.63    theinitium.com
 172.67.158.33   theinitium.com
