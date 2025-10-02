@@ -5159,6 +5159,11 @@
 23.47.146.119   cdnapisec.kaltura.com
 210.71.227.58   vod-stream.nhk.jp
 210.71.227.59   vod-stream.nhk.jp
+13.35.37.44     tags.crwdcntrl.net
+13.35.37.69     tags.crwdcntrl.net
+13.35.37.86     tags.crwdcntrl.net
+13.35.37.123    tags.crwdcntrl.net
+104.18.29.101   cdn-ima.33across.com
 210.71.227.8    nhkwlive-ojp.akamaized.net
 210.71.227.40   nhkwlive-ojp.akamaized.net
 210.71.227.27   nhkwlive-xjp.akamaized.net
@@ -12845,6 +12850,69 @@
 43.203.46.47   publicarchive.newstapa.org
 # Newstapa End
 
+# Behance Start
+151.101.1.197   behance.net
+151.101.65.197  behance.net
+151.101.129.197 behance.net
+151.101.193.197 behance.net
+18.65.168.54    a2.behance.net
+18.65.168.54    a3.behance.net
+18.65.168.54    a4.behance.net
+18.65.168.54    a5.behance.net
+151.101.1.197   www.behance.net
+151.101.65.197  www.behance.net
+151.101.129.197 www.behance.net
+151.101.193.197 www.behance.net
+216.198.53.6    help.behance.net
+216.198.54.6    help.behance.net
+18.65.159.82    mir-cdn-cf.behance.net
+54.230.175.12   mir-cdn-cf.behance.net
+54.230.175.85   mir-cdn-cf.behance.net
+18.65.159.82    mir-s3-cdn-cf.behance.net
+54.230.175.12   mir-s3-cdn-cf.behance.net
+54.230.175.85   mir-s3-cdn-cf.behance.net
+# Behance End
+
+# Fotor Start
+13.35.37.46    fotor.com
+13.35.37.92    fotor.com
+13.35.37.94    fotor.com
+13.35.37.126   fotor.com
+18.64.8.105    uls.fotor.com
+18.65.100.118  uls.fotor.com
+104.18.14.48   www.fotor.com
+104.18.15.48   www.fotor.com
+104.18.14.48   banner.fotor.com
+104.18.15.48   banner.fotor.com
+18.64.8.50     mobile.fotor.com
+18.65.100.76   mobile.fotor.com
+18.67.47.120   contest.fotor.com
+143.204.85.29  contest.fotor.com
+18.64.8.50     desktop.fotor.com
+18.65.100.118  desktop.fotor.com
+216.198.53.6   support.fotor.com
+216.198.54.6   support.fotor.com
+104.18.14.48   community.fotor.com
+104.18.15.48   community.fotor.com
+18.161.108.211 slideshow.fotor.com
+143.204.51.125 slideshow.fotor.com
+18.64.8.105    nuls-mobile.fotor.com
+18.65.100.76   nuls-mobile.fotor.com
+104.18.14.48   goartwebapi.fotor.com
+104.18.15.48   goartwebapi.fotor.com
+# Fotor End
+
+# TheTVDB Start
+13.32.60.81   thetvdb.com
+18.65.144.82  thetvdb.com
+13.35.38.81   api.thetvdb.com
+13.225.160.82 api.thetvdb.com
+143.204.81.80 api.thetvdb.com
+13.32.60.81   www.thetvdb.com
+18.65.144.82  www.thetvdb.com
+34.215.192.14 forums.thetvdb.com
+# TheTVDB End
+
 # Naver Start
 203.235.97.82   blog.naver.com
 23.199.24.203   blog.naver.com
@@ -18844,29 +18912,6 @@
 203.66.35.102 mevents.ettoday.net
 203.66.35.108 mevents.ettoday.net
 # ETToday End
-
-# Ctwdcntrl Start
-199.233.57.16  crwdcntrl.net
-199.233.57.17  crwdcntrl.net
-199.233.57.18  crwdcntrl.net
-199.233.57.19  crwdcntrl.net
-199.233.57.20  crwdcntrl.net
-199.233.57.21  crwdcntrl.net
-52.77.55.21    bcp.crwdcntrl.net
-18.140.185.14  bcp.crwdcntrl.net
-18.140.172.38  bcp.crwdcntrl.net
-13.250.211.107 bcp.crwdcntrl.net
-54.254.123.239 bcp.crwdcntrl.net
-18.140.185.14  www.crwdcntrl.net
-18.140.172.38  www.crwdcntrl.net
-13.250.156.162 www.crwdcntrl.net
-47.128.208.84  www.crwdcntrl.net
-54.254.202.101 www.crwdcntrl.net
-13.35.7.54     tags.crwdcntrl.net
-13.35.7.66     tags.crwdcntrl.net
-13.35.7.91     tags.crwdcntrl.net
-13.35.7.108    tags.crwdcntrl.net
-# Ctwdcntrl End
 
 # Axios Start
 13.35.7.3      axios.com
