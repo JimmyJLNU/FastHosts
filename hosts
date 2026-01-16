@@ -5365,6 +5365,10 @@
 # bootstrapcdn End
 
 # CDN Start
+3.164.110.27    api.dvidshub.net
+3.164.110.37    api.dvidshub.net
+3.164.110.71    api.dvidshub.net
+3.164.110.124   api.dvidshub.net
 121.254.136.17  a248.e.akamai.net
 23.42.105.27    players.akamai.com
 184.50.186.47   players.akamai.com
@@ -5430,6 +5434,10 @@
 203.69.81.40    rthkaudiocnr-lh.akamaihd.net
 210.71.227.168  foxnewsplayer-a.akamaihd.net
 210.71.227.171  foxnewsplayer-a.akamaihd.net
+203.69.138.40   cdn-dynmedia-1.microsoft.com
+203.69.138.59   cdn-dynmedia-1.microsoft.com
+210.71.227.210  cdn-dynmedia-1.microsoft.com
+210.71.227.218  cdn-dynmedia-1.microsoft.com
 13.35.37.29     d3c33hcgiwev3.cloudfront.net
 13.35.37.74     d3c33hcgiwev3.cloudfront.net
 13.35.37.128    d3c33hcgiwev3.cloudfront.net
@@ -20922,6 +20930,8 @@
 52.199.221.217  www.ifc.usafa.edu
 54.178.223.218  www.ifc.usafa.edu
 44.196.156.19   scholarshangar.usafa.edu
+152.89.170.12   cia.gov
+152.89.170.12   www.cia.gov
 23.201.13.107   usagm.gov
 23.201.13.107   www.usagm.gov
 13.35.7.11      share.america.gov
@@ -21136,6 +21146,9 @@
 172.67.161.53   cdn.browsercam.com
 104.21.82.179   www.browsercam.com
 172.67.161.53   www.browsercam.com
+204.93.150.152  download.dappcdn.com
+204.93.150.154  download.dappcdn.com
+204.93.150.153  download.dappcdn.com
 104.26.12.16    apkdownload.com
 104.26.13.16    apkdownload.com
 172.67.74.87    apkdownload.com
