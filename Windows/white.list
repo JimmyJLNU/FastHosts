@@ -13077,28 +13077,19 @@
 43.203.46.47   publicarchive.newstapa.org
 # Newstapa End
 
-# Behance Start
-151.101.1.197   behance.net
-151.101.65.197  behance.net
-151.101.129.197 behance.net
-151.101.193.197 behance.net
-18.65.168.54    a2.behance.net
-18.65.168.54    a3.behance.net
-18.65.168.54    a4.behance.net
-18.65.168.54    a5.behance.net
-151.101.1.197   www.behance.net
-151.101.65.197  www.behance.net
-151.101.129.197 www.behance.net
-151.101.193.197 www.behance.net
-216.198.53.6    help.behance.net
-216.198.54.6    help.behance.net
-18.65.159.82    mir-cdn-cf.behance.net
-54.230.175.12   mir-cdn-cf.behance.net
-54.230.175.85   mir-cdn-cf.behance.net
-18.65.159.82    mir-s3-cdn-cf.behance.net
-54.230.175.12   mir-s3-cdn-cf.behance.net
-54.230.175.85   mir-s3-cdn-cf.behance.net
-# Behance End
+# KKBOX Start
+210.61.182.198  kkbox.com
+35.79.217.103   www.kkbox.com
+35.79.243.127   www.kkbox.com
+35.79.217.103   help.kkbox.com
+35.79.243.127   help.kkbox.com
+35.79.217.103   kkpoints.kkbox.com
+35.79.243.127   kkpoints.kkbox.com
+35.79.217.103   kkpoints.kkbox.com
+35.79.243.127   kkpoints.kkbox.com
+35.79.217.103   developer.kkbox.com
+35.79.243.127   developer.kkbox.com
+# KKBOX End
 
 # Fotor Start
 13.35.37.46    fotor.com
