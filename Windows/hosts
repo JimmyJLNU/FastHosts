@@ -6870,16 +6870,16 @@
 # Edgecast CDN End
 
 # PCloud Start
-45.131.244.7    my.pcloud.com
-45.131.244.8    my.pcloud.com
-45.131.244.9    my.pcloud.com
-45.131.244.10   my.pcloud.com
-45.131.244.11   my.pcloud.com
-45.131.244.12   my.pcloud.com
-178.249.213.69  pcdn-e.pcloud.com
-178.249.213.69  pcdn-u.pcloud.com
-178.249.213.69  pcdn-my.pcloud.com
-178.249.213.69  pcdn-www.pcloud.com
+45.131.244.7  my.pcloud.com
+45.131.244.8  my.pcloud.com
+45.131.244.9  my.pcloud.com
+45.131.244.10 my.pcloud.com
+45.131.244.11 my.pcloud.com
+45.131.244.12 my.pcloud.com
+104.128.19.4  pcdn-e.pcloud.com
+104.128.19.4  pcdn-u.pcloud.com
+104.128.19.4  pcdn-my.pcloud.com
+104.128.19.4  pcdn-www.pcloud.com
 # PCloud End
 
 # MEGA Start
@@ -21656,6 +21656,10 @@
 192.0.78.12     en.wordpress.com
 192.0.78.13     www.en.wordpress.com
 192.0.78.12     www.en.wordpress.com
+104.21.23.70    wikis.pro
+172.67.209.125  wikis.pro
+104.21.23.70    www.wikis.pro
+172.67.209.125  www.wikis.pro
 13.35.35.3      wikiwand.com
 13.35.35.29     wikiwand.com
 13.35.35.35     wikiwand.com
