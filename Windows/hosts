@@ -15063,6 +15063,64 @@
 199.232.46.46 subscription-manager.ft.com
 # FT End
 
+# RTHK Start
+27.126.236.160  rthk.hk
+59.188.18.219   t.rthk.hk
+27.126.236.160  tv.rthk.hk
+59.188.18.214   sdc.rthk.hk
+27.126.236.160  www.rthk.hk
+59.188.18.238   app1.rthk.hk
+59.188.18.237   app2.rthk.hk
+59.188.18.219   app3.rthk.hk
+27.126.236.162  app4.rthk.hk
+202.177.192.106 app5.rthk.hk
+202.177.192.97  app6.rthk.hk
+59.188.18.199   app7.rthk.hk
+58.64.215.129   app8.rthk.hk
+58.64.215.130   cibs.rthk.hk
+13.35.37.118    news.rthk.hk
+202.177.192.98  stmw.rthk.hk
+202.177.192.99  stmw.rthk.hk
+202.177.192.100 stmw.rthk.hk
+59.188.18.225   rthk1.rthk.hk
+59.188.18.226   rthk2.rthk.hk
+59.188.18.227   rthk3.rthk.hk
+59.188.18.226   rthk4.rthk.hk
+59.188.18.229   rthk5.rthk.hk
+59.188.18.235   rthk6.rthk.hk
+59.188.18.230   rthk7.rthk.hk
+59.188.18.231   rthk8.rthk.hk
+58.64.215.136   rthk9.rthk.hk
+223.119.248.9   api01.rthk.hk
+27.126.236.160  radio.rthk.hk
+27.126.236.160  radio1.rthk.hk
+27.126.236.160  radio2.rthk.hk
+27.126.236.160  radio3.rthk.hk
+27.126.236.160  radio4.rthk.hk
+59.188.18.227   gbcode.rthk.hk
+216.58.200.19   search.rthk.hk
+142.251.42.243  search.rthk.hk
+172.217.5.83    search.rthk.hk
+172.217.164.147 search.rthk.hk
+172.217.160.115 search.rthk.hk
+172.217.27.147  search.rthk.hk
+172.217.164.179 search.rthk.hk
+172.217.160.115 search.rthk.hk
+202.177.192.103 archive.rthk.hk
+13.35.37.71     newsprd.rthk.hk
+13.225.132.84   newsprd.rthk.hk
+13.249.171.15   newsprd.rthk.hk
+13.226.120.126  newsprd.rthk.hk
+13.224.161.117  newsprd.rthk.hk
+59.188.18.220   podcast.rthk.hk
+59.188.18.220   podcasts.rthk.hk
+59.188.18.204   teenpower.rthk.hk
+27.126.236.161  programme.rthk.hk
+13.35.37.103    newsstatic.rthk.hk
+27.126.236.160  rthk.gov.hk
+27.126.236.160  www.rthk.gov.hk
+# RTHK End
+
 # apk4fun Start
 104.21.63.49    apk4fun.com
 172.67.169.242  apk4fun.com
@@ -21591,22 +21649,10 @@
 # Others Start
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
-90.84.161.14    www.gov.hk
-90.84.161.15    www.gov.hk
-90.84.161.16    www.gov.hk
-90.84.161.17    www.gov.hk
-90.84.161.18    www.gov.hk
-90.84.161.19    www.gov.hk
-90.84.161.20    www.gov.hk
-90.84.161.21    www.gov.hk
-90.84.161.22    www.gov.hk
-90.84.161.23    www.gov.hk
-90.84.161.24    www.gov.hk
-90.84.161.25    www.gov.hk
-90.84.161.26    www.gov.hk
-90.84.161.27    www.gov.hk
-90.84.161.28    www.gov.hk
-90.84.161.29    www.gov.hk
+118.193.91.34   www.gov.hk
+118.193.91.35   www.gov.hk
+219.76.20.213   www.gov.hk
+219.76.20.214   www.gov.hk
 18.162.140.230  e123.hk
 18.162.140.230  www.e123.hk
 146.75.48.144   www.gov.uk
@@ -21689,6 +21735,12 @@
 192.0.78.12     en.wordpress.com
 192.0.78.13     www.en.wordpress.com
 192.0.78.12     www.en.wordpress.com
+104.16.218.109  namu.wiki
+104.16.219.109  namu.wiki
+104.16.218.109  en.namu.wiki
+104.16.219.109  en.namu.wiki
+104.16.218.109  www.namu.wiki
+104.16.219.109  www.namu.wiki
 104.21.23.70    wikis.pro
 172.67.209.125  wikis.pro
 104.21.23.70    www.wikis.pro
@@ -21905,11 +21957,6 @@
 124.156.190.61  www.kgithub.com
 43.154.72.237   kkgithub.com
 43.154.72.237   www.kkgithub.com
-104.18.18.80    x.ai
-104.18.18.80    api.x.ai
-104.18.18.80    www.x.ai
-104.18.18.80    data.x.ai
-104.18.18.80    docs.x.ai
 104.18.28.234   grok.com
 104.18.29.234   grok.com
 104.18.28.234   www.grok.com
