@@ -7059,6 +7059,8 @@
 185.15.59.224 meta.m.wikimedia.org
 185.15.59.224 commons.wikimedia.org
 185.15.59.224 commons.m.wikimedia.org
+185.15.59.224 search.wikimedia.org
+185.15.59.224 search.m.wikimedia.org
 185.15.59.224 species.wikimedia.org
 185.15.59.224 species.m.wikimedia.org
 185.15.59.224 wikitech.wikimedia.org
@@ -13575,9 +13577,10 @@
 # ABC End
 
 # News.au Start
-23.208.80.113  news.com.au
-23.220.196.126 www.news.com.au
-23.208.80.194  tags.news.com.au
+23.208.80.113   news.com.au
+23.220.196.126  www.news.com.au
+23.210.236.26   tags.news.com.au
+139.175.164.167 tags.news.com.au
 # News.au End
 
 # Asiaone Start
