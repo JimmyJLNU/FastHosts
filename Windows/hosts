@@ -13181,6 +13181,7 @@
 172.66.2.166 trove.fandom.com
 172.66.2.166 ttte.fandom.com
 172.66.2.166 turtlepedia.fandom.com
+172.66.2.166 tvinfo.fandom.com
 172.66.2.166 twilightsaga.fandom.com
 172.66.2.166 typemoon.fandom.com
 172.66.2.166 ultimatepopculture.fandom.com
@@ -22357,7 +22358,31 @@
 172.66.169.252 legacy.www.documentcloud.org
 # DocumentCloud End
 
+# Indiatimes Start
+23.11.93.117    indiatimes.com
+23.41.136.110   indiatimes.com
+203.66.199.82   www.indiatimes.com
+210.71.227.203  www.indiatimes.com
+210.61.249.41   timesofindia.indiatimes.com
+203.66.199.82   timesofindia.indiatimes.com
+210.71.227.203  timesofindia.indiatimes.com
+210.71.227.209  timesofindia.indiatimes.com
+203.74.95.73    economictimes.indiatimes.com
+210.71.227.209  economictimes.indiatimes.com
+203.66.199.89   government.economictimes.indiatimes.com
+210.61.249.34   government.economictimes.indiatimes.com
+210.71.227.208  government.economictimes.indiatimes.com
+210.71.227.216  government.economictimes.indiatimes.com
+203.66.199.32   electronics.economictimes.indiatimes.com
+210.71.227.211  electronics.economictimes.indiatimes.com
+210.61.249.41   supplychain.economictimes.indiatimes.com
+210.71.227.201  supplychain.economictimes.indiatimes.com
+210.71.227.211  supplychain.economictimes.indiatimes.com
+# Indiatimes End
+
 # Others Start
+151.101.66.146  x.com
+151.101.2.146   www.x.com
 67.199.248.10   bit.ly
 67.199.248.10   www.bit.ly
 18.162.140.230  e123.hk
@@ -22678,6 +22703,8 @@
 124.156.190.61  www.kgithub.com
 43.154.72.237   kkgithub.com
 43.154.72.237   www.kkgithub.com
+104.18.28.129   about.gitlab.com
+104.18.29.129   about.gitlab.com
 104.18.18.80    x.ai
 104.18.18.80    api.x.ai
 104.18.18.80    www.x.ai
@@ -22858,6 +22885,12 @@
 104.21.75.212   fcare.fortuneinsight.com
 172.67.182.57   fcare.fortuneinsight.com
 34.80.138.108   prime.fortuneinsight.com
+75.2.60.5       trrb.net
+52.74.6.109     www.trrb.net
+13.52.188.95    www.trrb.net
+35.157.26.135   www.trrb.net
+18.208.88.157   www.trrb.net
+13.215.239.219  www.trrb.net
 104.21.45.155   chinesedaily.com
 172.67.216.102  chinesedaily.com
 104.21.45.155   www.chinesedaily.com
@@ -22912,6 +22945,8 @@
 34.120.192.184  mirrormedia.mg
 34.120.192.184  www.mirrormedia.mg
 34.120.192.184  v3-statics.mirrormedia.mg
+34.49.229.130   mirrordaily.news
+34.49.229.130   www.mirrordaily.news
 104.21.67.73    101newsmedia.com
 172.67.217.131  101newsmedia.com
 104.21.67.73    www.101newsmedia.com
