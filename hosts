@@ -15543,34 +15543,41 @@
 # kakao End
 
 # FT Start
-146.75.50.46  www.ft.com
-151.101.78.46 www.ft.com
-199.232.46.46 www.ft.com
-146.75.50.46  kat.ft.com
-151.101.78.46 kat.ft.com
-199.232.46.46 kat.ft.com
-146.75.50.46  events.ft.com
-151.101.78.46 events.ft.com
-199.232.46.46 events.ft.com
-146.75.50.46  consent.ft.com
-199.232.46.46 consent.ft.com
-146.75.50.46  aboutus.ft.com
-151.101.78.46 aboutus.ft.com
-199.232.46.46 aboutus.ft.com
-146.75.50.46  rankings.ft.com
-151.101.78.46 rankings.ft.com
-146.75.50.46  accounts.ft.com
-151.101.78.46 accounts.ft.com
-199.232.46.46 accounts.ft.com
-146.75.50.46  subscribe.ft.com
-151.101.78.46 subscribe.ft.com
-199.232.46.46 subscribe.ft.com
-146.75.50.46  subscription.ft.com
-151.101.78.46 subscription.ft.com
-199.232.46.46 subscription.ft.com
-146.75.50.46  subscription-manager.ft.com
-151.101.78.46 subscription-manager.ft.com
-199.232.46.46 subscription-manager.ft.com
+146.75.50.46   www.ft.com
+151.101.78.46  www.ft.com
+199.232.46.46  www.ft.com
+146.75.50.46   kat.ft.com
+151.101.78.46  kat.ft.com
+199.232.46.46  kat.ft.com
+146.75.50.46   events.ft.com
+151.101.78.46  events.ft.com
+199.232.46.46  events.ft.com
+146.75.50.46   consent.ft.com
+199.232.46.46  consent.ft.com
+146.75.50.46   aboutus.ft.com
+151.101.78.46  aboutus.ft.com
+199.232.46.46  aboutus.ft.com
+146.75.50.46   rankings.ft.com
+151.101.78.46  rankings.ft.com
+146.75.50.46   accounts.ft.com
+151.101.78.46  accounts.ft.com
+199.232.46.46  accounts.ft.com
+146.75.50.46   subscribe.ft.com
+151.101.78.46  subscribe.ft.com
+199.232.46.46  subscribe.ft.com
+146.75.50.46   subscription.ft.com
+151.101.78.46  subscription.ft.com
+199.232.46.46  subscription.ft.com
+146.75.50.46   subscription-manager.ft.com
+151.101.78.46  subscription-manager.ft.com
+199.232.46.46  subscription-manager.ft.com
+54.250.176.243 ftchinese.com
+54.250.176.243 m.ftchinese.com
+104.21.8.120   www.ftchinese.com
+172.67.139.110 www.ftchinese.com
+54.250.178.55  ftchinese.org
+54.250.178.55  m.ftchinese.org
+54.250.178.55  www.ftchinese.org
 # FT End
 
 # RTHK Start
@@ -22738,6 +22745,8 @@
 172.66.43.99    www.domain.glass
 172.66.40.157   search.domain.glass
 172.66.43.99    search.domain.glass
+104.18.32.151   cn.investing.com
+172.64.155.105  cn.investing.com
 104.16.85.20    cdn.jsdelivr.net
 104.16.86.20    cdn.jsdelivr.net
 104.16.87.20    cdn.jsdelivr.net
